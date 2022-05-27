@@ -4,7 +4,7 @@
 This project is to create panel for demographic information and to visualize the bacterial data for each volunteer.The volunteers will be able to identify the top 10 bacterial species in their belly buttons which might be used to manufacture the synthetic beef.
 
 ## Website
-Interactive Webpage can be found here: [GitHub Pages](https://ashwinihegde28.github.io/Plotly_Belly_Button_Biodiversity/) 
+Interactive Webpage can be found here: [Plotly_Belly_Button_Biodiversity](https://ashwinihegde28.github.io/Plotly_Belly_Button_Biodiversity/) 
 
 
 ### Brief Summary of Steps involved:
