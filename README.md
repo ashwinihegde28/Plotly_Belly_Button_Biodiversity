@@ -38,4 +38,10 @@ To create a Gauge Chart using the knowledge of JavaScript, Plotly and D3.js whic
 -  Gauge chart looks similar to the following image: <br>
   ![Bubble Chart]() <br>
   
+### Deliverable 4:
+- Before customization
+
+- Post customization
+
+
 
