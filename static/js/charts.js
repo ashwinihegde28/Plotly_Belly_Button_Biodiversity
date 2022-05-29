@@ -77,6 +77,7 @@ function buildMetadata(sample) {
     // 6. Create variables that hold the otu_ids, otu_labels, and sample_values.
     var PANEL = d3.select("#sample-metadata");
     var otu_ids = firstSample.otu_ids;
+    console.log("otu_ids " + otu_ids);
     var otu_labels = firstSample.otu_labels;
     var sample_values = firstSample.sample_values;  
 
@@ -147,8 +148,8 @@ var bubbleLayout = {
   //margin: { t: 0 },
   yaxis: { title: "<b>Sample values</b>" },
   xaxis: { title: " <b>OTU IDs</b> " },
-  width: 600, 
-  height: 600,
+  //width: 900, 
+  //height: 650,
   hovermode: "closest"
 };
 
